@@ -233,7 +233,7 @@ aside {
 }
 
 aside h4 {
-    font-style: 20px;
+    
     color: #ffffff;
     background: #000000;
     border-radius: 4px;
@@ -243,7 +243,7 @@ aside h4 {
 }
 
 aside h6 {
-    font-style: 10px;
+   
     color: #000000;
     text-align: center;
     padding: 5px;
@@ -262,7 +262,7 @@ aside img {
     padding: 10px 0 0 0;
     width: 140px;
     height: 120px;
-    float: center;
+
 }
 
 footer {
